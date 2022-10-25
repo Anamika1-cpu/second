@@ -19,4 +19,5 @@ def merge(a,b):
      while(j<lenb):
          c.append(b[j])
          j+=1;
-     return c;                    
+     return c
+merge([22,34],[43,98])                    
